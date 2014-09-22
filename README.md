@@ -2,6 +2,8 @@
 
 A Hubot script that display an Udon
 
+![](http://img.f.hatena.ne.jp/images/fotolife/b/bouzuya/20140922/20140922220800.gif)
+
 ## Installation
 
     $ npm install git://github.com/bouzuya/hubot-udon.git
